@@ -1,0 +1,19 @@
+﻿
+Statističke metode za informatičare
+
+Zadatak: Cijene kuća
+Izvor: http://lib.stat.cmu.edu/DASL/Datafiles/homedat.html
+
+
+a) Odredite mjere deskriptivne statistike za sve numeričke (kvantitativne) varijable  (broj podataka, aritmetička sredina, standardna devijacija, koeficijent varijacije, medijan). Napravite  grafički prikaz svih varijabli korištenjem box-plot grafičkog prikaza.  
+b) Izračunajte matricu korelacija između svih kvantitativnih varijabli (Price, Sqft, Age, Feats, Tax) i interpretirajte rezultate.
+c)   Ispitajte normalnost razdiobe za varijable iz b) dijela zadatka.  
+d)   Ispitajte da li postoji razlika u varijabli Price u ovisnosti o varijablama Ne i Cor. Koristite odgovarajući t-test. Ispitajte pretpostavke za njegovu primjenu. Grafički prikažite sredine korištenjem box plota. Testirajte i pomoću odgovarajućeg neparametarskog testa. 
+e)   Ispitajte da li postoji razlika u varijabli Price u ovisnosti o modalitetima varijabli Ne i Cor korištenjem dvofaktorske analize varijance. Ispitajte pretpostavke za primjenu analize varijance. Ukoliko postoje signifikantne razlike ispitajte između kojih tretmana korištenjem post hoc testa.
+f)   Ispitajte da li postoji razlika u varijabli Sqft u ovisnosti o modalitetima varijabli Ne i Cor korištenjem dvofaktorske analize varijance. Ispitajte pretpostavke za primjenu analize varijance. Ukoliko postoje signifikantne razlike ispitajte između kojih tretmana korištenjem post hoc testa.
+g)  Definirajte  model regresije kod kojeg će zavisna varijabla biti Price, a nezavisne ostale  varijable (definirajte model s dummy varijablama Ne i Cor). Komentirajte parametre regresije: koeficijent determinacije i korigirani koeficijent determinacije. Provedite skupni i pojedinačne testove signifikantnosti regresije za svaku od promatranih nezavisnih varijabli. Komentirajte rezultate regresije.  Provedite izbor varijabli koristeći metode Forward Selection Procedure, Backward Selection Procedure, Backward/Forward. 
+h)  Nacrtajte normalni prikaz rezidualnih vrijednosti za definirani regresijski model. 
+
+
+
+
