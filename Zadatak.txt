@@ -1,7 +1,7 @@
 ﻿
 Statističke metode za informatičare
 
-Zadatak: Cijene kuća
+Zadatak: Cijene kuća.
 Izvor: http://lib.stat.cmu.edu/DASL/Datafiles/homedat.html
 
 
